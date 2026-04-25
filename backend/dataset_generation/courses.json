@@ -1,0 +1,2202 @@
+[
+    {
+        "id": 0,
+        "title": "Complete Backend Development Masterclass - Zero to Hero (intermediate, 2024)",
+        "tags": [
+            "api",
+            "mongodb",
+            "node.js"
+        ],
+        "rating": 4.2,
+        "posted_date": "2026-03-08T17:53:01.359695"
+    },
+    {
+        "id": 1,
+        "title": "Complete AI Engineering Program - Real World (advanced, 2024)",
+        "tags": [
+            "pytorch",
+            "python",
+            "ml"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-20T17:53:01.359714"
+    },
+    {
+        "id": 2,
+        "title": "Complete AI Engineering Guide - Pro Edition (advanced, 2025)",
+        "tags": [
+            "python",
+            "ml",
+            "pytorch"
+        ],
+        "rating": 4.2,
+        "posted_date": "2026-03-10T17:53:01.359724"
+    },
+    {
+        "id": 3,
+        "title": "Complete Backend Development Masterclass - Zero to Hero (advanced, 2025)",
+        "tags": [
+            "node.js",
+            "mongodb",
+            "api"
+        ],
+        "rating": 4.4,
+        "posted_date": "2026-03-20T17:53:01.359729"
+    },
+    {
+        "id": 4,
+        "title": "Ultimate Business Analytics Masterclass - Pro Edition (beginner, 2024)",
+        "tags": [
+            "excel",
+            "sql",
+            "power bi"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-03-18T17:53:01.359733"
+    },
+    {
+        "id": 5,
+        "title": "Crash Data Science Bootcamp - Fast Track (intermediate, 2024)",
+        "tags": [
+            "python",
+            "data analysis",
+            "pandas"
+        ],
+        "rating": 3.9,
+        "posted_date": "2026-04-03T17:53:01.359737"
+    },
+    {
+        "id": 6,
+        "title": "Hands-on Software Testing Masterclass - Fast Track (beginner, 2024)",
+        "tags": [
+            "testing",
+            "selenium",
+            "automation"
+        ],
+        "rating": 5.0,
+        "posted_date": "2026-03-26T17:53:01.359741"
+    },
+    {
+        "id": 7,
+        "title": "Practical Digital Marketing Masterclass - Zero to Hero (beginner, 2024)",
+        "tags": [
+            "seo",
+            "content marketing",
+            "branding"
+        ],
+        "rating": 4.6,
+        "posted_date": "2026-03-15T17:53:01.359744"
+    },
+    {
+        "id": 8,
+        "title": "Complete Digital Marketing Program - Fast Track (intermediate, 2024)",
+        "tags": [
+            "seo",
+            "branding",
+            "content marketing"
+        ],
+        "rating": 3.9,
+        "posted_date": "2026-04-04T17:53:01.359748"
+    },
+    {
+        "id": 9,
+        "title": "Practical Software Testing Program - Pro Edition (intermediate, 2024)",
+        "tags": [
+            "selenium",
+            "automation",
+            "testing"
+        ],
+        "rating": 4.1,
+        "posted_date": "2026-04-03T17:53:01.359752"
+    },
+    {
+        "id": 10,
+        "title": "Complete Digital Marketing Bootcamp - Pro Edition (beginner, 2024)",
+        "tags": [
+            "content marketing",
+            "seo",
+            "branding"
+        ],
+        "rating": 3.9,
+        "posted_date": "2026-03-31T17:53:01.359756"
+    },
+    {
+        "id": 11,
+        "title": "Hands-on Business Analytics Program - Zero to Hero (beginner, 2025)",
+        "tags": [
+            "sql",
+            "power bi",
+            "excel"
+        ],
+        "rating": 3.8,
+        "posted_date": "2026-03-07T17:53:01.359760"
+    },
+    {
+        "id": 12,
+        "title": "Hands-on Digital Marketing Bootcamp - Zero to Hero (beginner, 2024)",
+        "tags": [
+            "content marketing",
+            "branding",
+            "seo"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-27T17:53:01.359763"
+    },
+    {
+        "id": 13,
+        "title": "Practical Sales Training Masterclass - Zero to Hero (advanced, 2025)",
+        "tags": [
+            "sales",
+            "crm",
+            "negotiation"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-15T17:53:01.359767"
+    },
+    {
+        "id": 14,
+        "title": "Crash Web Development Guide - Zero to Hero (beginner, 2025)",
+        "tags": [
+            "javascript",
+            "html",
+            "react"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-03-19T17:53:01.359771"
+    },
+    {
+        "id": 15,
+        "title": "Ultimate Business Analytics Guide - Real World (advanced, 2024)",
+        "tags": [
+            "power bi",
+            "sql",
+            "excel"
+        ],
+        "rating": 4.2,
+        "posted_date": "2026-03-28T17:53:01.359774"
+    },
+    {
+        "id": 16,
+        "title": "Hands-on AI Engineering Bootcamp - Fast Track (beginner, 2025)",
+        "tags": [
+            "ml",
+            "python",
+            "tensorflow"
+        ],
+        "rating": 3.5,
+        "posted_date": "2026-03-22T17:53:01.359778"
+    },
+    {
+        "id": 17,
+        "title": "Hands-on Software Testing Guide - Fast Track (advanced, 2024)",
+        "tags": [
+            "automation",
+            "testing",
+            "selenium"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-26T17:53:01.359782"
+    },
+    {
+        "id": 18,
+        "title": "Practical Sales Training Program - Zero to Hero (intermediate, 2024)",
+        "tags": [
+            "crm",
+            "negotiation",
+            "sales"
+        ],
+        "rating": 3.9,
+        "posted_date": "2026-03-20T17:53:01.359785"
+    },
+    {
+        "id": 19,
+        "title": "Crash Web Development Bootcamp - Zero to Hero (advanced, 2025)",
+        "tags": [
+            "react",
+            "css",
+            "html"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-10T17:53:01.359789"
+    },
+    {
+        "id": 20,
+        "title": "Practical Backend Development Masterclass - Real World (intermediate, 2024)",
+        "tags": [
+            "node.js",
+            "mongodb",
+            "api"
+        ],
+        "rating": 4.4,
+        "posted_date": "2026-03-24T17:53:01.359794"
+    },
+    {
+        "id": 21,
+        "title": "Hands-on Web Development Guide - Fast Track (beginner, 2025)",
+        "tags": [
+            "html",
+            "css",
+            "javascript"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-03-24T17:53:01.359798"
+    },
+    {
+        "id": 22,
+        "title": "Practical Data Science Bootcamp - Zero to Hero (advanced, 2025)",
+        "tags": [
+            "statistics",
+            "python",
+            "pandas"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-11T17:53:01.359802"
+    },
+    {
+        "id": 23,
+        "title": "Hands-on Software Testing Guide - Pro Edition (advanced, 2024)",
+        "tags": [
+            "testing",
+            "automation",
+            "selenium"
+        ],
+        "rating": 4.8,
+        "posted_date": "2026-03-21T17:53:01.359805"
+    },
+    {
+        "id": 24,
+        "title": "Ultimate Business Analytics Program - Zero to Hero (intermediate, 2024)",
+        "tags": [
+            "excel",
+            "power bi",
+            "sql"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-04-01T17:53:01.359809"
+    },
+    {
+        "id": 25,
+        "title": "Ultimate Sales Training Bootcamp - Pro Edition (intermediate, 2025)",
+        "tags": [
+            "negotiation",
+            "sales",
+            "crm"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-04-03T17:53:01.359813"
+    },
+    {
+        "id": 26,
+        "title": "Practical Backend Development Bootcamp - Fast Track (intermediate, 2025)",
+        "tags": [
+            "mongodb",
+            "node.js",
+            "api"
+        ],
+        "rating": 4.5,
+        "posted_date": "2026-03-26T17:53:01.359817"
+    },
+    {
+        "id": 27,
+        "title": "Crash Data Science Program - Real World (advanced, 2024)",
+        "tags": [
+            "statistics",
+            "python",
+            "pandas"
+        ],
+        "rating": 4.4,
+        "posted_date": "2026-03-06T17:53:01.359820"
+    },
+    {
+        "id": 28,
+        "title": "Complete Web Development Bootcamp - Fast Track (beginner, 2025)",
+        "tags": [
+            "javascript",
+            "css",
+            "react"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-04-01T17:53:01.359824"
+    },
+    {
+        "id": 29,
+        "title": "Crash Software Testing Masterclass - Real World (beginner, 2025)",
+        "tags": [
+            "automation",
+            "selenium",
+            "testing"
+        ],
+        "rating": 4.5,
+        "posted_date": "2026-03-17T17:53:01.359828"
+    },
+    {
+        "id": 30,
+        "title": "Crash Business Analytics Bootcamp - Pro Edition (beginner, 2024)",
+        "tags": [
+            "excel",
+            "sql",
+            "power bi"
+        ],
+        "rating": 4.2,
+        "posted_date": "2026-03-24T17:53:01.359831"
+    },
+    {
+        "id": 31,
+        "title": "Complete Backend Development Guide - Pro Edition (advanced, 2024)",
+        "tags": [
+            "mongodb",
+            "api",
+            "node.js"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-11T17:53:01.359835"
+    },
+    {
+        "id": 32,
+        "title": "Practical Software Testing Masterclass - Zero to Hero (advanced, 2024)",
+        "tags": [
+            "selenium",
+            "automation",
+            "testing"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-21T17:53:01.359840"
+    },
+    {
+        "id": 33,
+        "title": "Ultimate AI Engineering Bootcamp - Real World (beginner, 2024)",
+        "tags": [
+            "python",
+            "tensorflow",
+            "pytorch"
+        ],
+        "rating": 4.1,
+        "posted_date": "2026-03-16T17:53:01.359844"
+    },
+    {
+        "id": 34,
+        "title": "Complete Data Science Bootcamp - Pro Edition (intermediate, 2024)",
+        "tags": [
+            "pandas",
+            "statistics",
+            "python"
+        ],
+        "rating": 4.4,
+        "posted_date": "2026-03-23T17:53:01.359848"
+    },
+    {
+        "id": 35,
+        "title": "Practical Web Development Guide - Pro Edition (intermediate, 2025)",
+        "tags": [
+            "react",
+            "html",
+            "javascript"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-28T17:53:01.359852"
+    },
+    {
+        "id": 36,
+        "title": "Practical Software Testing Program - Real World (advanced, 2025)",
+        "tags": [
+            "selenium",
+            "automation",
+            "testing"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-06T17:53:01.359856"
+    },
+    {
+        "id": 37,
+        "title": "Practical Software Testing Program - Fast Track (advanced, 2025)",
+        "tags": [
+            "selenium",
+            "testing",
+            "automation"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-09T17:53:01.359859"
+    },
+    {
+        "id": 38,
+        "title": "Complete Web Development Bootcamp - Pro Edition (beginner, 2024)",
+        "tags": [
+            "html",
+            "javascript",
+            "css"
+        ],
+        "rating": 4.4,
+        "posted_date": "2026-03-24T17:53:01.359863"
+    },
+    {
+        "id": 39,
+        "title": "Complete Business Analytics Program - Fast Track (intermediate, 2024)",
+        "tags": [
+            "sql",
+            "power bi",
+            "excel"
+        ],
+        "rating": 4.1,
+        "posted_date": "2026-03-31T17:53:01.359870"
+    },
+    {
+        "id": 40,
+        "title": "Practical Data Science Guide - Zero to Hero (advanced, 2024)",
+        "tags": [
+            "python",
+            "pandas",
+            "data analysis"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-09T17:53:01.359874"
+    },
+    {
+        "id": 41,
+        "title": "Ultimate AI Engineering Program - Pro Edition (advanced, 2025)",
+        "tags": [
+            "tensorflow",
+            "python",
+            "pytorch"
+        ],
+        "rating": 4.3,
+        "posted_date": "2026-03-22T17:53:01.359878"
+    },
+    {
+        "id": 42,
+        "title": "Complete Sales Training Bootcamp - Real World (intermediate, 2025)",
+        "tags": [
+            "sales",
+            "negotiation",
+            "crm"
+        ],
+        "rating": 4.6,
+        "posted_date": "2026-03-09T17:53:01.359882"
+    },
+    {
+        "id": 43,
+        "title": "Crash Web Development Program - Pro Edition (intermediate, 2024)",
+        "tags": [
+            "html",
+            "css",
+            "javascript"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-10T17:53:01.359886"
+    },
+    {
+        "id": 44,
+        "title": "Complete Digital Marketing Masterclass - Zero to Hero (advanced, 2025)",
+        "tags": [
+            "branding",
+            "seo",
+            "content marketing"
+        ],
+        "rating": 4.8,
+        "posted_date": "2026-03-07T17:53:01.359889"
+    },
+    {
+        "id": 45,
+        "title": "Crash AI Engineering Masterclass - Real World (advanced, 2025)",
+        "tags": [
+            "tensorflow",
+            "pytorch",
+            "ml"
+        ],
+        "rating": 3.8,
+        "posted_date": "2026-03-09T17:53:01.359893"
+    },
+    {
+        "id": 46,
+        "title": "Complete Digital Marketing Program - Fast Track (beginner, 2024)",
+        "tags": [
+            "content marketing",
+            "branding",
+            "seo"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-20T17:53:01.359897"
+    },
+    {
+        "id": 47,
+        "title": "Complete AI Engineering Program - Real World (intermediate, 2025)",
+        "tags": [
+            "tensorflow",
+            "pytorch",
+            "python"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-24T17:53:01.359900"
+    },
+    {
+        "id": 48,
+        "title": "Complete Business Analytics Bootcamp - Fast Track (advanced, 2025)",
+        "tags": [
+            "power bi",
+            "sql",
+            "excel"
+        ],
+        "rating": 4.3,
+        "posted_date": "2026-03-24T17:53:01.359904"
+    },
+    {
+        "id": 49,
+        "title": "Crash Software Testing Bootcamp - Zero to Hero (beginner, 2025)",
+        "tags": [
+            "testing",
+            "automation",
+            "selenium"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-20T17:53:01.359908"
+    },
+    {
+        "id": 50,
+        "title": "Ultimate Digital Marketing Guide - Real World (intermediate, 2024)",
+        "tags": [
+            "seo",
+            "content marketing",
+            "branding"
+        ],
+        "rating": 3.8,
+        "posted_date": "2026-03-25T17:53:01.359911"
+    },
+    {
+        "id": 51,
+        "title": "Hands-on Sales Training Program - Fast Track (beginner, 2024)",
+        "tags": [
+            "negotiation",
+            "sales",
+            "crm"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-04-04T17:53:01.359915"
+    },
+    {
+        "id": 52,
+        "title": "Ultimate AI Engineering Bootcamp - Real World (intermediate, 2024)",
+        "tags": [
+            "pytorch",
+            "tensorflow",
+            "ml"
+        ],
+        "rating": 4.3,
+        "posted_date": "2026-04-04T17:53:01.359920"
+    },
+    {
+        "id": 53,
+        "title": "Ultimate Software Testing Guide - Zero to Hero (beginner, 2025)",
+        "tags": [
+            "automation",
+            "selenium",
+            "testing"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-13T17:53:01.359923"
+    },
+    {
+        "id": 54,
+        "title": "Complete Digital Marketing Program - Pro Edition (intermediate, 2024)",
+        "tags": [
+            "branding",
+            "content marketing",
+            "seo"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-07T17:53:01.359927"
+    },
+    {
+        "id": 55,
+        "title": "Complete Digital Marketing Program - Fast Track (advanced, 2024)",
+        "tags": [
+            "content marketing",
+            "seo",
+            "branding"
+        ],
+        "rating": 4.8,
+        "posted_date": "2026-03-15T17:53:01.359931"
+    },
+    {
+        "id": 56,
+        "title": "Ultimate Software Testing Program - Pro Edition (beginner, 2025)",
+        "tags": [
+            "automation",
+            "testing",
+            "selenium"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-26T17:53:01.359935"
+    },
+    {
+        "id": 57,
+        "title": "Ultimate Backend Development Bootcamp - Fast Track (advanced, 2024)",
+        "tags": [
+            "node.js",
+            "api",
+            "mongodb"
+        ],
+        "rating": 4.5,
+        "posted_date": "2026-03-07T17:53:01.359938"
+    },
+    {
+        "id": 58,
+        "title": "Complete Web Development Bootcamp - Zero to Hero (beginner, 2024)",
+        "tags": [
+            "css",
+            "javascript",
+            "html"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-04-04T17:53:01.359942"
+    },
+    {
+        "id": 59,
+        "title": "Crash Backend Development Masterclass - Zero to Hero (beginner, 2024)",
+        "tags": [
+            "node.js",
+            "mongodb",
+            "api"
+        ],
+        "rating": 4.1,
+        "posted_date": "2026-04-04T17:53:01.359946"
+    },
+    {
+        "id": 60,
+        "title": "Hands-on Business Analytics Guide - Zero to Hero (advanced, 2025)",
+        "tags": [
+            "power bi",
+            "excel",
+            "sql"
+        ],
+        "rating": 4.5,
+        "posted_date": "2026-03-29T17:53:01.359949"
+    },
+    {
+        "id": 61,
+        "title": "Hands-on Business Analytics Masterclass - Zero to Hero (advanced, 2025)",
+        "tags": [
+            "excel",
+            "power bi",
+            "sql"
+        ],
+        "rating": 5.0,
+        "posted_date": "2026-03-30T17:53:01.359953"
+    },
+    {
+        "id": 62,
+        "title": "Hands-on Business Analytics Bootcamp - Pro Edition (intermediate, 2024)",
+        "tags": [
+            "excel",
+            "power bi",
+            "sql"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-03-31T17:53:01.359957"
+    },
+    {
+        "id": 63,
+        "title": "Practical Sales Training Program - Real World (intermediate, 2024)",
+        "tags": [
+            "sales",
+            "negotiation",
+            "crm"
+        ],
+        "rating": 4.1,
+        "posted_date": "2026-03-17T17:53:01.359960"
+    },
+    {
+        "id": 64,
+        "title": "Hands-on Backend Development Masterclass - Zero to Hero (advanced, 2024)",
+        "tags": [
+            "node.js",
+            "api",
+            "mongodb"
+        ],
+        "rating": 4.4,
+        "posted_date": "2026-03-20T17:53:01.359965"
+    },
+    {
+        "id": 65,
+        "title": "Complete Backend Development Masterclass - Fast Track (beginner, 2024)",
+        "tags": [
+            "mongodb",
+            "node.js",
+            "api"
+        ],
+        "rating": 4.2,
+        "posted_date": "2026-04-04T17:53:01.359969"
+    },
+    {
+        "id": 66,
+        "title": "Crash Web Development Program - Zero to Hero (advanced, 2024)",
+        "tags": [
+            "react",
+            "css",
+            "html"
+        ],
+        "rating": 4.6,
+        "posted_date": "2026-03-22T17:53:01.359973"
+    },
+    {
+        "id": 67,
+        "title": "Ultimate Data Science Masterclass - Real World (intermediate, 2025)",
+        "tags": [
+            "python",
+            "data analysis",
+            "pandas"
+        ],
+        "rating": 4.2,
+        "posted_date": "2026-04-04T17:53:01.359978"
+    },
+    {
+        "id": 68,
+        "title": "Practical Backend Development Bootcamp - Real World (advanced, 2025)",
+        "tags": [
+            "mongodb",
+            "node.js",
+            "api"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-09T17:53:01.359981"
+    },
+    {
+        "id": 69,
+        "title": "Ultimate Backend Development Program - Real World (intermediate, 2025)",
+        "tags": [
+            "mongodb",
+            "api",
+            "node.js"
+        ],
+        "rating": 4.2,
+        "posted_date": "2026-03-12T17:53:01.359985"
+    },
+    {
+        "id": 70,
+        "title": "Crash Digital Marketing Guide - Fast Track (intermediate, 2024)",
+        "tags": [
+            "content marketing",
+            "branding",
+            "seo"
+        ],
+        "rating": 3.8,
+        "posted_date": "2026-03-28T17:53:01.359988"
+    },
+    {
+        "id": 71,
+        "title": "Ultimate Sales Training Masterclass - Zero to Hero (intermediate, 2024)",
+        "tags": [
+            "sales",
+            "negotiation",
+            "crm"
+        ],
+        "rating": 4.5,
+        "posted_date": "2026-03-20T17:53:01.359992"
+    },
+    {
+        "id": 72,
+        "title": "Practical Software Testing Program - Pro Edition (advanced, 2025)",
+        "tags": [
+            "testing",
+            "selenium",
+            "automation"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-22T17:53:01.359996"
+    },
+    {
+        "id": 73,
+        "title": "Complete Web Development Program - Zero to Hero (beginner, 2024)",
+        "tags": [
+            "javascript",
+            "css",
+            "react"
+        ],
+        "rating": 4.1,
+        "posted_date": "2026-03-11T17:53:01.359999"
+    },
+    {
+        "id": 74,
+        "title": "Complete Business Analytics Program - Real World (beginner, 2025)",
+        "tags": [
+            "power bi",
+            "sql",
+            "excel"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-14T17:53:01.360003"
+    },
+    {
+        "id": 75,
+        "title": "Hands-on Web Development Guide - Fast Track (intermediate, 2024)",
+        "tags": [
+            "html",
+            "css",
+            "javascript"
+        ],
+        "rating": 4.3,
+        "posted_date": "2026-03-08T17:53:01.360006"
+    },
+    {
+        "id": 76,
+        "title": "Ultimate Data Science Program - Pro Edition (beginner, 2025)",
+        "tags": [
+            "data analysis",
+            "statistics",
+            "python"
+        ],
+        "rating": 4.8,
+        "posted_date": "2026-03-11T17:53:01.360011"
+    },
+    {
+        "id": 77,
+        "title": "Crash Software Testing Program - Real World (advanced, 2024)",
+        "tags": [
+            "selenium",
+            "automation",
+            "testing"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-13T17:53:01.360015"
+    },
+    {
+        "id": 78,
+        "title": "Crash Web Development Guide - Zero to Hero (advanced, 2025)",
+        "tags": [
+            "css",
+            "react",
+            "html"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-18T17:53:01.360019"
+    },
+    {
+        "id": 79,
+        "title": "Crash Web Development Masterclass - Zero to Hero (intermediate, 2025)",
+        "tags": [
+            "javascript",
+            "css",
+            "html"
+        ],
+        "rating": 4.8,
+        "posted_date": "2026-04-03T17:53:01.360023"
+    },
+    {
+        "id": 80,
+        "title": "Hands-on Software Testing Program - Real World (beginner, 2024)",
+        "tags": [
+            "testing",
+            "selenium",
+            "automation"
+        ],
+        "rating": 4.3,
+        "posted_date": "2026-03-16T17:53:01.360026"
+    },
+    {
+        "id": 81,
+        "title": "Ultimate AI Engineering Masterclass - Pro Edition (beginner, 2024)",
+        "tags": [
+            "ml",
+            "python",
+            "pytorch"
+        ],
+        "rating": 3.9,
+        "posted_date": "2026-03-12T17:53:01.360030"
+    },
+    {
+        "id": 82,
+        "title": "Crash Sales Training Program - Pro Edition (beginner, 2024)",
+        "tags": [
+            "sales",
+            "negotiation",
+            "crm"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-31T17:53:01.360034"
+    },
+    {
+        "id": 83,
+        "title": "Ultimate Web Development Program - Real World (beginner, 2025)",
+        "tags": [
+            "react",
+            "css",
+            "html"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-04-05T17:53:01.360038"
+    },
+    {
+        "id": 84,
+        "title": "Crash Data Science Masterclass - Zero to Hero (intermediate, 2025)",
+        "tags": [
+            "data analysis",
+            "pandas",
+            "python"
+        ],
+        "rating": 3.5,
+        "posted_date": "2026-03-12T17:53:01.360043"
+    },
+    {
+        "id": 85,
+        "title": "Complete Software Testing Bootcamp - Real World (beginner, 2025)",
+        "tags": [
+            "testing",
+            "automation",
+            "selenium"
+        ],
+        "rating": 4.2,
+        "posted_date": "2026-03-09T17:53:01.360047"
+    },
+    {
+        "id": 86,
+        "title": "Hands-on Sales Training Masterclass - Real World (beginner, 2025)",
+        "tags": [
+            "negotiation",
+            "sales",
+            "crm"
+        ],
+        "rating": 4.4,
+        "posted_date": "2026-03-12T17:53:01.360050"
+    },
+    {
+        "id": 87,
+        "title": "Complete Digital Marketing Bootcamp - Zero to Hero (intermediate, 2025)",
+        "tags": [
+            "content marketing",
+            "branding",
+            "seo"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-03-27T17:53:01.360054"
+    },
+    {
+        "id": 88,
+        "title": "Crash Web Development Masterclass - Zero to Hero (beginner, 2025)",
+        "tags": [
+            "react",
+            "css",
+            "javascript"
+        ],
+        "rating": 4.5,
+        "posted_date": "2026-04-04T17:53:01.360058"
+    },
+    {
+        "id": 89,
+        "title": "Crash Business Analytics Guide - Fast Track (intermediate, 2025)",
+        "tags": [
+            "sql",
+            "excel",
+            "power bi"
+        ],
+        "rating": 4.2,
+        "posted_date": "2026-04-02T17:53:01.360063"
+    },
+    {
+        "id": 90,
+        "title": "Ultimate Sales Training Program - Real World (intermediate, 2025)",
+        "tags": [
+            "negotiation",
+            "crm",
+            "sales"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-03-18T17:53:01.360066"
+    },
+    {
+        "id": 91,
+        "title": "Hands-on Software Testing Bootcamp - Zero to Hero (advanced, 2024)",
+        "tags": [
+            "automation",
+            "selenium",
+            "testing"
+        ],
+        "rating": 4.4,
+        "posted_date": "2026-04-05T17:53:01.360070"
+    },
+    {
+        "id": 92,
+        "title": "Crash AI Engineering Guide - Fast Track (beginner, 2025)",
+        "tags": [
+            "pytorch",
+            "ml",
+            "python"
+        ],
+        "rating": 5.0,
+        "posted_date": "2026-03-23T17:53:01.360074"
+    },
+    {
+        "id": 93,
+        "title": "Practical Business Analytics Masterclass - Pro Edition (intermediate, 2024)",
+        "tags": [
+            "power bi",
+            "excel",
+            "sql"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-03-21T17:53:01.360078"
+    },
+    {
+        "id": 94,
+        "title": "Ultimate Business Analytics Bootcamp - Pro Edition (advanced, 2025)",
+        "tags": [
+            "excel",
+            "sql",
+            "power bi"
+        ],
+        "rating": 4.5,
+        "posted_date": "2026-04-02T17:53:01.360082"
+    },
+    {
+        "id": 95,
+        "title": "Hands-on Digital Marketing Guide - Real World (beginner, 2024)",
+        "tags": [
+            "seo",
+            "content marketing",
+            "branding"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-27T17:53:01.360086"
+    },
+    {
+        "id": 96,
+        "title": "Crash Sales Training Bootcamp - Fast Track (beginner, 2025)",
+        "tags": [
+            "crm",
+            "negotiation",
+            "sales"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-16T17:53:01.360090"
+    },
+    {
+        "id": 97,
+        "title": "Complete Business Analytics Bootcamp - Fast Track (beginner, 2024)",
+        "tags": [
+            "sql",
+            "power bi",
+            "excel"
+        ],
+        "rating": 4.6,
+        "posted_date": "2026-03-14T17:53:01.360093"
+    },
+    {
+        "id": 98,
+        "title": "Practical Sales Training Bootcamp - Fast Track (advanced, 2025)",
+        "tags": [
+            "negotiation",
+            "crm",
+            "sales"
+        ],
+        "rating": 4.3,
+        "posted_date": "2026-04-02T17:53:01.360097"
+    },
+    {
+        "id": 99,
+        "title": "Ultimate AI Engineering Program - Real World (intermediate, 2024)",
+        "tags": [
+            "ml",
+            "pytorch",
+            "python"
+        ],
+        "rating": 3.9,
+        "posted_date": "2026-03-21T17:53:01.360101"
+    },
+    {
+        "id": 100,
+        "title": "Crash Web Development Guide - Fast Track (beginner, 2025)",
+        "tags": [
+            "javascript",
+            "react",
+            "css"
+        ],
+        "rating": 4.4,
+        "posted_date": "2026-03-11T17:53:01.360104"
+    },
+    {
+        "id": 101,
+        "title": "Practical Software Testing Masterclass - Fast Track (beginner, 2025)",
+        "tags": [
+            "testing",
+            "automation",
+            "selenium"
+        ],
+        "rating": 4.3,
+        "posted_date": "2026-03-26T17:53:01.360108"
+    },
+    {
+        "id": 102,
+        "title": "Hands-on Data Science Program - Pro Edition (intermediate, 2024)",
+        "tags": [
+            "python",
+            "data analysis",
+            "pandas"
+        ],
+        "rating": 4.2,
+        "posted_date": "2026-03-10T17:53:01.360112"
+    },
+    {
+        "id": 103,
+        "title": "Practical Web Development Masterclass - Real World (advanced, 2024)",
+        "tags": [
+            "css",
+            "html",
+            "react"
+        ],
+        "rating": 4.2,
+        "posted_date": "2026-03-11T17:53:01.360115"
+    },
+    {
+        "id": 104,
+        "title": "Ultimate Backend Development Program - Fast Track (intermediate, 2025)",
+        "tags": [
+            "api",
+            "node.js",
+            "mongodb"
+        ],
+        "rating": 4.2,
+        "posted_date": "2026-04-02T17:53:01.360119"
+    },
+    {
+        "id": 105,
+        "title": "Crash Software Testing Masterclass - Fast Track (advanced, 2025)",
+        "tags": [
+            "selenium",
+            "testing",
+            "automation"
+        ],
+        "rating": 4.6,
+        "posted_date": "2026-04-03T17:53:01.360122"
+    },
+    {
+        "id": 106,
+        "title": "Complete Web Development Guide - Real World (beginner, 2024)",
+        "tags": [
+            "javascript",
+            "react",
+            "css"
+        ],
+        "rating": 4.4,
+        "posted_date": "2026-04-01T17:53:01.360126"
+    },
+    {
+        "id": 107,
+        "title": "Crash Business Analytics Program - Zero to Hero (intermediate, 2024)",
+        "tags": [
+            "sql",
+            "power bi",
+            "excel"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-04-04T17:53:01.360130"
+    },
+    {
+        "id": 108,
+        "title": "Crash AI Engineering Masterclass - Zero to Hero (advanced, 2024)",
+        "tags": [
+            "tensorflow",
+            "ml",
+            "python"
+        ],
+        "rating": 3.8,
+        "posted_date": "2026-03-31T17:53:01.360133"
+    },
+    {
+        "id": 109,
+        "title": "Practical Sales Training Guide - Pro Edition (intermediate, 2025)",
+        "tags": [
+            "sales",
+            "negotiation",
+            "crm"
+        ],
+        "rating": 4.4,
+        "posted_date": "2026-04-02T17:53:01.360137"
+    },
+    {
+        "id": 110,
+        "title": "Practical AI Engineering Guide - Zero to Hero (advanced, 2025)",
+        "tags": [
+            "python",
+            "pytorch",
+            "ml"
+        ],
+        "rating": 4.3,
+        "posted_date": "2026-03-14T17:53:01.360141"
+    },
+    {
+        "id": 111,
+        "title": "Ultimate AI Engineering Masterclass - Pro Edition (beginner, 2025)",
+        "tags": [
+            "ml",
+            "python",
+            "tensorflow"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-04-01T17:53:01.360145"
+    },
+    {
+        "id": 112,
+        "title": "Ultimate Data Science Masterclass - Zero to Hero (beginner, 2025)",
+        "tags": [
+            "statistics",
+            "data analysis",
+            "pandas"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-07T17:53:01.360148"
+    },
+    {
+        "id": 113,
+        "title": "Crash Web Development Program - Pro Edition (advanced, 2025)",
+        "tags": [
+            "javascript",
+            "html",
+            "css"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-26T17:53:01.360153"
+    },
+    {
+        "id": 114,
+        "title": "Practical Software Testing Program - Fast Track (beginner, 2024)",
+        "tags": [
+            "automation",
+            "testing",
+            "selenium"
+        ],
+        "rating": 3.8,
+        "posted_date": "2026-03-19T17:53:01.360157"
+    },
+    {
+        "id": 115,
+        "title": "Complete Business Analytics Masterclass - Zero to Hero (beginner, 2025)",
+        "tags": [
+            "sql",
+            "excel",
+            "power bi"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-22T17:53:01.360161"
+    },
+    {
+        "id": 116,
+        "title": "Crash Digital Marketing Bootcamp - Fast Track (intermediate, 2024)",
+        "tags": [
+            "seo",
+            "branding",
+            "content marketing"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-07T17:53:01.360166"
+    },
+    {
+        "id": 117,
+        "title": "Crash Web Development Masterclass - Pro Edition (intermediate, 2024)",
+        "tags": [
+            "react",
+            "javascript",
+            "html"
+        ],
+        "rating": 4.1,
+        "posted_date": "2026-04-01T17:53:01.360170"
+    },
+    {
+        "id": 118,
+        "title": "Practical Software Testing Bootcamp - Pro Edition (beginner, 2025)",
+        "tags": [
+            "selenium",
+            "automation",
+            "testing"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-30T17:53:01.360174"
+    },
+    {
+        "id": 119,
+        "title": "Ultimate Backend Development Guide - Fast Track (advanced, 2024)",
+        "tags": [
+            "node.js",
+            "mongodb",
+            "api"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-24T17:53:01.360178"
+    },
+    {
+        "id": 120,
+        "title": "Crash Web Development Bootcamp - Real World (intermediate, 2024)",
+        "tags": [
+            "html",
+            "javascript",
+            "react"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-16T17:53:01.360182"
+    },
+    {
+        "id": 121,
+        "title": "Ultimate Business Analytics Masterclass - Real World (intermediate, 2025)",
+        "tags": [
+            "excel",
+            "power bi",
+            "sql"
+        ],
+        "rating": 4.5,
+        "posted_date": "2026-03-17T17:53:01.360186"
+    },
+    {
+        "id": 122,
+        "title": "Practical Backend Development Bootcamp - Zero to Hero (intermediate, 2024)",
+        "tags": [
+            "api",
+            "mongodb",
+            "node.js"
+        ],
+        "rating": 3.9,
+        "posted_date": "2026-03-29T17:53:01.360190"
+    },
+    {
+        "id": 123,
+        "title": "Ultimate Backend Development Guide - Pro Edition (beginner, 2025)",
+        "tags": [
+            "mongodb",
+            "node.js",
+            "api"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-03-17T17:53:01.360194"
+    },
+    {
+        "id": 124,
+        "title": "Hands-on Backend Development Program - Real World (intermediate, 2025)",
+        "tags": [
+            "mongodb",
+            "api",
+            "node.js"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-03-18T17:53:01.360198"
+    },
+    {
+        "id": 125,
+        "title": "Ultimate Sales Training Masterclass - Zero to Hero (advanced, 2024)",
+        "tags": [
+            "negotiation",
+            "crm",
+            "sales"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-09T17:53:01.360202"
+    },
+    {
+        "id": 126,
+        "title": "Complete Backend Development Guide - Real World (intermediate, 2025)",
+        "tags": [
+            "mongodb",
+            "node.js",
+            "api"
+        ],
+        "rating": 4.2,
+        "posted_date": "2026-04-01T17:53:01.360206"
+    },
+    {
+        "id": 127,
+        "title": "Ultimate Web Development Bootcamp - Zero to Hero (beginner, 2024)",
+        "tags": [
+            "css",
+            "html",
+            "javascript"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-03-23T17:53:01.360210"
+    },
+    {
+        "id": 128,
+        "title": "Hands-on Software Testing Bootcamp - Real World (advanced, 2024)",
+        "tags": [
+            "automation",
+            "testing",
+            "selenium"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-03-24T17:53:01.360213"
+    },
+    {
+        "id": 129,
+        "title": "Crash AI Engineering Masterclass - Pro Edition (intermediate, 2024)",
+        "tags": [
+            "pytorch",
+            "ml",
+            "tensorflow"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-11T17:53:01.360218"
+    },
+    {
+        "id": 130,
+        "title": "Complete Business Analytics Guide - Pro Edition (intermediate, 2024)",
+        "tags": [
+            "power bi",
+            "excel",
+            "sql"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-27T17:53:01.360222"
+    },
+    {
+        "id": 131,
+        "title": "Practical Web Development Masterclass - Zero to Hero (intermediate, 2024)",
+        "tags": [
+            "css",
+            "html",
+            "react"
+        ],
+        "rating": 4.6,
+        "posted_date": "2026-03-16T17:53:01.360226"
+    },
+    {
+        "id": 132,
+        "title": "Hands-on Data Science Masterclass - Pro Edition (intermediate, 2025)",
+        "tags": [
+            "python",
+            "pandas",
+            "data analysis"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-27T17:53:01.360230"
+    },
+    {
+        "id": 133,
+        "title": "Hands-on Digital Marketing Guide - Zero to Hero (advanced, 2025)",
+        "tags": [
+            "seo",
+            "branding",
+            "content marketing"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-04-03T17:53:01.360234"
+    },
+    {
+        "id": 134,
+        "title": "Complete Business Analytics Guide - Zero to Hero (advanced, 2024)",
+        "tags": [
+            "power bi",
+            "excel",
+            "sql"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-30T17:53:01.360238"
+    },
+    {
+        "id": 135,
+        "title": "Hands-on AI Engineering Guide - Fast Track (beginner, 2025)",
+        "tags": [
+            "pytorch",
+            "tensorflow",
+            "ml"
+        ],
+        "rating": 4.3,
+        "posted_date": "2026-04-02T17:53:01.360241"
+    },
+    {
+        "id": 136,
+        "title": "Crash Web Development Guide - Zero to Hero (advanced, 2024)",
+        "tags": [
+            "javascript",
+            "react",
+            "html"
+        ],
+        "rating": 4.5,
+        "posted_date": "2026-03-24T17:53:01.360245"
+    },
+    {
+        "id": 137,
+        "title": "Complete Backend Development Program - Fast Track (beginner, 2024)",
+        "tags": [
+            "node.js",
+            "mongodb",
+            "api"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-11T17:53:01.360249"
+    },
+    {
+        "id": 138,
+        "title": "Complete AI Engineering Bootcamp - Fast Track (beginner, 2024)",
+        "tags": [
+            "tensorflow",
+            "ml",
+            "pytorch"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-17T17:53:01.360253"
+    },
+    {
+        "id": 139,
+        "title": "Complete Software Testing Bootcamp - Pro Edition (intermediate, 2025)",
+        "tags": [
+            "automation",
+            "testing",
+            "selenium"
+        ],
+        "rating": 4.1,
+        "posted_date": "2026-03-25T17:53:01.360257"
+    },
+    {
+        "id": 140,
+        "title": "Hands-on AI Engineering Guide - Fast Track (beginner, 2025)",
+        "tags": [
+            "ml",
+            "python",
+            "pytorch"
+        ],
+        "rating": 5.0,
+        "posted_date": "2026-04-01T17:53:01.360261"
+    },
+    {
+        "id": 141,
+        "title": "Complete Sales Training Program - Real World (beginner, 2025)",
+        "tags": [
+            "negotiation",
+            "crm",
+            "sales"
+        ],
+        "rating": 4.1,
+        "posted_date": "2026-03-20T17:53:01.360265"
+    },
+    {
+        "id": 142,
+        "title": "Complete Software Testing Bootcamp - Fast Track (intermediate, 2024)",
+        "tags": [
+            "selenium",
+            "automation",
+            "testing"
+        ],
+        "rating": 3.8,
+        "posted_date": "2026-03-25T17:53:01.360269"
+    },
+    {
+        "id": 143,
+        "title": "Ultimate Data Science Program - Real World (advanced, 2024)",
+        "tags": [
+            "python",
+            "data analysis",
+            "statistics"
+        ],
+        "rating": 4.8,
+        "posted_date": "2026-03-22T17:53:01.360272"
+    },
+    {
+        "id": 144,
+        "title": "Crash Web Development Program - Zero to Hero (advanced, 2025)",
+        "tags": [
+            "css",
+            "react",
+            "javascript"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-25T17:53:01.360276"
+    },
+    {
+        "id": 145,
+        "title": "Practical Data Science Guide - Pro Edition (beginner, 2024)",
+        "tags": [
+            "statistics",
+            "pandas",
+            "data analysis"
+        ],
+        "rating": 5.0,
+        "posted_date": "2026-03-25T17:53:01.360280"
+    },
+    {
+        "id": 146,
+        "title": "Ultimate Business Analytics Program - Real World (advanced, 2025)",
+        "tags": [
+            "sql",
+            "power bi",
+            "excel"
+        ],
+        "rating": 4.1,
+        "posted_date": "2026-04-02T17:53:01.360284"
+    },
+    {
+        "id": 147,
+        "title": "Crash Sales Training Bootcamp - Real World (beginner, 2025)",
+        "tags": [
+            "crm",
+            "negotiation",
+            "sales"
+        ],
+        "rating": 4.1,
+        "posted_date": "2026-03-29T17:53:01.360287"
+    },
+    {
+        "id": 148,
+        "title": "Ultimate Sales Training Guide - Fast Track (intermediate, 2024)",
+        "tags": [
+            "crm",
+            "negotiation",
+            "sales"
+        ],
+        "rating": 4.6,
+        "posted_date": "2026-03-12T17:53:01.360292"
+    },
+    {
+        "id": 149,
+        "title": "Practical Web Development Bootcamp - Fast Track (intermediate, 2024)",
+        "tags": [
+            "react",
+            "html",
+            "css"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-28T17:53:01.360297"
+    },
+    {
+        "id": 150,
+        "title": "Complete Web Development Bootcamp - Pro Edition (advanced, 2025)",
+        "tags": [
+            "javascript",
+            "css",
+            "html"
+        ],
+        "rating": 4.5,
+        "posted_date": "2026-03-21T17:53:01.360300"
+    },
+    {
+        "id": 151,
+        "title": "Crash Business Analytics Program - Real World (advanced, 2024)",
+        "tags": [
+            "sql",
+            "power bi",
+            "excel"
+        ],
+        "rating": 4.3,
+        "posted_date": "2026-03-19T17:53:01.360304"
+    },
+    {
+        "id": 152,
+        "title": "Complete Business Analytics Guide - Zero to Hero (intermediate, 2024)",
+        "tags": [
+            "excel",
+            "sql",
+            "power bi"
+        ],
+        "rating": 3.8,
+        "posted_date": "2026-04-05T17:53:01.360308"
+    },
+    {
+        "id": 153,
+        "title": "Ultimate Software Testing Masterclass - Real World (beginner, 2025)",
+        "tags": [
+            "selenium",
+            "testing",
+            "automation"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-04-05T17:53:01.360312"
+    },
+    {
+        "id": 154,
+        "title": "Ultimate Software Testing Program - Zero to Hero (beginner, 2024)",
+        "tags": [
+            "selenium",
+            "testing",
+            "automation"
+        ],
+        "rating": 3.5,
+        "posted_date": "2026-03-09T17:53:01.360317"
+    },
+    {
+        "id": 155,
+        "title": "Crash Sales Training Guide - Fast Track (intermediate, 2024)",
+        "tags": [
+            "crm",
+            "sales",
+            "negotiation"
+        ],
+        "rating": 4.8,
+        "posted_date": "2026-03-11T17:53:01.360321"
+    },
+    {
+        "id": 156,
+        "title": "Crash Data Science Guide - Zero to Hero (beginner, 2024)",
+        "tags": [
+            "data analysis",
+            "statistics",
+            "python"
+        ],
+        "rating": 4.4,
+        "posted_date": "2026-03-27T17:53:01.360325"
+    },
+    {
+        "id": 157,
+        "title": "Ultimate Software Testing Program - Zero to Hero (intermediate, 2025)",
+        "tags": [
+            "selenium",
+            "automation",
+            "testing"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-26T17:53:01.360329"
+    },
+    {
+        "id": 158,
+        "title": "Complete Web Development Guide - Pro Edition (advanced, 2025)",
+        "tags": [
+            "react",
+            "html",
+            "css"
+        ],
+        "rating": 3.8,
+        "posted_date": "2026-04-05T17:53:01.360332"
+    },
+    {
+        "id": 159,
+        "title": "Crash Sales Training Program - Real World (intermediate, 2024)",
+        "tags": [
+            "negotiation",
+            "crm",
+            "sales"
+        ],
+        "rating": 3.8,
+        "posted_date": "2026-04-01T17:53:01.360336"
+    },
+    {
+        "id": 160,
+        "title": "Ultimate Sales Training Masterclass - Zero to Hero (intermediate, 2025)",
+        "tags": [
+            "sales",
+            "negotiation",
+            "crm"
+        ],
+        "rating": 4.1,
+        "posted_date": "2026-04-05T17:53:01.360339"
+    },
+    {
+        "id": 161,
+        "title": "Hands-on Web Development Bootcamp - Real World (beginner, 2024)",
+        "tags": [
+            "css",
+            "html",
+            "javascript"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-28T17:53:01.360343"
+    },
+    {
+        "id": 162,
+        "title": "Ultimate Backend Development Masterclass - Real World (beginner, 2025)",
+        "tags": [
+            "api",
+            "mongodb",
+            "node.js"
+        ],
+        "rating": 4.5,
+        "posted_date": "2026-03-13T17:53:01.360347"
+    },
+    {
+        "id": 163,
+        "title": "Hands-on AI Engineering Masterclass - Real World (beginner, 2024)",
+        "tags": [
+            "pytorch",
+            "python",
+            "tensorflow"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-10T17:53:01.360350"
+    },
+    {
+        "id": 164,
+        "title": "Ultimate Backend Development Bootcamp - Real World (intermediate, 2024)",
+        "tags": [
+            "node.js",
+            "mongodb",
+            "api"
+        ],
+        "rating": 4.6,
+        "posted_date": "2026-03-28T17:53:01.360354"
+    },
+    {
+        "id": 165,
+        "title": "Crash Digital Marketing Program - Zero to Hero (beginner, 2024)",
+        "tags": [
+            "content marketing",
+            "branding",
+            "seo"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-19T17:53:01.360358"
+    },
+    {
+        "id": 166,
+        "title": "Crash Sales Training Program - Zero to Hero (intermediate, 2024)",
+        "tags": [
+            "crm",
+            "negotiation",
+            "sales"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-23T17:53:01.360361"
+    },
+    {
+        "id": 167,
+        "title": "Practical Web Development Bootcamp - Fast Track (intermediate, 2025)",
+        "tags": [
+            "react",
+            "javascript",
+            "html"
+        ],
+        "rating": 3.9,
+        "posted_date": "2026-03-19T17:53:01.360365"
+    },
+    {
+        "id": 168,
+        "title": "Hands-on Software Testing Bootcamp - Fast Track (advanced, 2025)",
+        "tags": [
+            "automation",
+            "testing",
+            "selenium"
+        ],
+        "rating": 4.2,
+        "posted_date": "2026-03-28T17:53:01.360368"
+    },
+    {
+        "id": 169,
+        "title": "Complete Software Testing Guide - Zero to Hero (intermediate, 2024)",
+        "tags": [
+            "selenium",
+            "automation",
+            "testing"
+        ],
+        "rating": 3.9,
+        "posted_date": "2026-03-21T17:53:01.360372"
+    },
+    {
+        "id": 170,
+        "title": "Complete AI Engineering Guide - Zero to Hero (beginner, 2025)",
+        "tags": [
+            "python",
+            "tensorflow",
+            "pytorch"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-04-05T17:53:01.360376"
+    },
+    {
+        "id": 171,
+        "title": "Hands-on AI Engineering Program - Pro Edition (beginner, 2025)",
+        "tags": [
+            "ml",
+            "pytorch",
+            "tensorflow"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-07T17:53:01.360379"
+    },
+    {
+        "id": 172,
+        "title": "Crash Digital Marketing Masterclass - Real World (advanced, 2025)",
+        "tags": [
+            "branding",
+            "seo",
+            "content marketing"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-03-22T17:53:01.360383"
+    },
+    {
+        "id": 173,
+        "title": "Practical Backend Development Program - Pro Edition (intermediate, 2025)",
+        "tags": [
+            "api",
+            "node.js",
+            "mongodb"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-10T17:53:01.360387"
+    },
+    {
+        "id": 174,
+        "title": "Ultimate Software Testing Bootcamp - Real World (advanced, 2025)",
+        "tags": [
+            "automation",
+            "testing",
+            "selenium"
+        ],
+        "rating": 3.9,
+        "posted_date": "2026-03-12T17:53:01.360390"
+    },
+    {
+        "id": 175,
+        "title": "Crash Sales Training Program - Pro Edition (intermediate, 2024)",
+        "tags": [
+            "sales",
+            "negotiation",
+            "crm"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-12T17:53:01.360394"
+    },
+    {
+        "id": 176,
+        "title": "Complete Web Development Bootcamp - Fast Track (advanced, 2024)",
+        "tags": [
+            "html",
+            "react",
+            "javascript"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-31T17:53:01.360398"
+    },
+    {
+        "id": 177,
+        "title": "Crash Data Science Guide - Real World (beginner, 2025)",
+        "tags": [
+            "pandas",
+            "statistics",
+            "python"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-19T17:53:01.360401"
+    },
+    {
+        "id": 178,
+        "title": "Crash Software Testing Masterclass - Pro Edition (advanced, 2025)",
+        "tags": [
+            "automation",
+            "selenium",
+            "testing"
+        ],
+        "rating": 4.0,
+        "posted_date": "2026-03-21T17:53:01.360405"
+    },
+    {
+        "id": 179,
+        "title": "Hands-on Software Testing Bootcamp - Real World (intermediate, 2025)",
+        "tags": [
+            "automation",
+            "selenium",
+            "testing"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-18T17:53:01.360408"
+    },
+    {
+        "id": 180,
+        "title": "Ultimate Business Analytics Bootcamp - Zero to Hero (intermediate, 2024)",
+        "tags": [
+            "power bi",
+            "sql",
+            "excel"
+        ],
+        "rating": 3.9,
+        "posted_date": "2026-04-01T17:53:01.360413"
+    },
+    {
+        "id": 181,
+        "title": "Crash Data Science Program - Pro Edition (intermediate, 2024)",
+        "tags": [
+            "pandas",
+            "python",
+            "statistics"
+        ],
+        "rating": 4.6,
+        "posted_date": "2026-03-08T17:53:01.360417"
+    },
+    {
+        "id": 182,
+        "title": "Practical Software Testing Guide - Fast Track (advanced, 2025)",
+        "tags": [
+            "testing",
+            "selenium",
+            "automation"
+        ],
+        "rating": 4.3,
+        "posted_date": "2026-03-22T17:53:01.360421"
+    },
+    {
+        "id": 183,
+        "title": "Practical Sales Training Guide - Zero to Hero (intermediate, 2024)",
+        "tags": [
+            "negotiation",
+            "sales",
+            "crm"
+        ],
+        "rating": 4.7,
+        "posted_date": "2026-03-19T17:53:01.360424"
+    },
+    {
+        "id": 184,
+        "title": "Practical Sales Training Masterclass - Fast Track (beginner, 2025)",
+        "tags": [
+            "crm",
+            "negotiation",
+            "sales"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-06T17:53:01.360429"
+    },
+    {
+        "id": 185,
+        "title": "Practical Backend Development Bootcamp - Zero to Hero (advanced, 2025)",
+        "tags": [
+            "mongodb",
+            "node.js",
+            "api"
+        ],
+        "rating": 4.6,
+        "posted_date": "2026-03-30T17:53:01.360433"
+    },
+    {
+        "id": 186,
+        "title": "Hands-on AI Engineering Program - Fast Track (beginner, 2024)",
+        "tags": [
+            "ml",
+            "python",
+            "pytorch"
+        ],
+        "rating": 4.8,
+        "posted_date": "2026-03-15T17:53:01.360436"
+    },
+    {
+        "id": 187,
+        "title": "Practical Backend Development Guide - Fast Track (advanced, 2024)",
+        "tags": [
+            "mongodb",
+            "node.js",
+            "api"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-07T17:53:01.360440"
+    },
+    {
+        "id": 188,
+        "title": "Ultimate Business Analytics Masterclass - Fast Track (intermediate, 2025)",
+        "tags": [
+            "power bi",
+            "excel",
+            "sql"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-30T17:53:01.360444"
+    },
+    {
+        "id": 189,
+        "title": "Complete Sales Training Program - Pro Edition (advanced, 2025)",
+        "tags": [
+            "crm",
+            "sales",
+            "negotiation"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-04-03T17:53:01.360447"
+    },
+    {
+        "id": 190,
+        "title": "Crash Digital Marketing Bootcamp - Zero to Hero (intermediate, 2025)",
+        "tags": [
+            "branding",
+            "seo",
+            "content marketing"
+        ],
+        "rating": 3.9,
+        "posted_date": "2026-03-21T17:53:01.360451"
+    },
+    {
+        "id": 191,
+        "title": "Hands-on Software Testing Masterclass - Real World (advanced, 2024)",
+        "tags": [
+            "testing",
+            "selenium",
+            "automation"
+        ],
+        "rating": 3.6,
+        "posted_date": "2026-03-18T17:53:01.360455"
+    },
+    {
+        "id": 192,
+        "title": "Ultimate Data Science Bootcamp - Real World (advanced, 2024)",
+        "tags": [
+            "data analysis",
+            "python",
+            "statistics"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-22T17:53:01.360459"
+    },
+    {
+        "id": 193,
+        "title": "Crash Business Analytics Guide - Zero to Hero (beginner, 2025)",
+        "tags": [
+            "power bi",
+            "excel",
+            "sql"
+        ],
+        "rating": 4.3,
+        "posted_date": "2026-04-05T17:53:01.360464"
+    },
+    {
+        "id": 194,
+        "title": "Crash Business Analytics Program - Fast Track (intermediate, 2025)",
+        "tags": [
+            "sql",
+            "power bi",
+            "excel"
+        ],
+        "rating": 3.8,
+        "posted_date": "2026-03-31T17:53:01.360467"
+    },
+    {
+        "id": 195,
+        "title": "Complete Business Analytics Masterclass - Fast Track (advanced, 2024)",
+        "tags": [
+            "power bi",
+            "excel",
+            "sql"
+        ],
+        "rating": 4.9,
+        "posted_date": "2026-03-29T17:53:01.360472"
+    },
+    {
+        "id": 196,
+        "title": "Complete Data Science Program - Fast Track (advanced, 2025)",
+        "tags": [
+            "pandas",
+            "statistics",
+            "data analysis"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-11T17:53:01.360476"
+    },
+    {
+        "id": 197,
+        "title": "Complete Sales Training Masterclass - Pro Edition (beginner, 2025)",
+        "tags": [
+            "crm",
+            "sales",
+            "negotiation"
+        ],
+        "rating": 4.1,
+        "posted_date": "2026-03-29T17:53:01.360480"
+    },
+    {
+        "id": 198,
+        "title": "Practical Data Science Masterclass - Fast Track (beginner, 2024)",
+        "tags": [
+            "python",
+            "pandas",
+            "statistics"
+        ],
+        "rating": 3.7,
+        "posted_date": "2026-03-13T17:53:01.360484"
+    },
+    {
+        "id": 199,
+        "title": "Hands-on Software Testing Program - Real World (intermediate, 2025)",
+        "tags": [
+            "testing",
+            "automation",
+            "selenium"
+        ],
+        "rating": 4.6,
+        "posted_date": "2026-03-17T17:53:01.360488"
+    }
+]
